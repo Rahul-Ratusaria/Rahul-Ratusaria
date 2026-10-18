@@ -83,7 +83,7 @@ A practical fitness-focused project exploring how interactive tools can support 
 
 **Focus:** Applied AI · Fitness technology · User-focused product design
 
-*Repository link to be added when confirmed.*
+[**Explore repository ↗**](https://github.com/Rahul-Ratusaria/gym_helper)
 
 ## 🔬 Currently exploring
 
